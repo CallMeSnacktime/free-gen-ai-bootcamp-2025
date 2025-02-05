@@ -5,9 +5,9 @@ Teaching Instructions:
 - You need to help the student transcribe the sentence into Spanish.
 
 - Don't give away the transcription, make the student work through via clues.
-- Provide us a table of vocabulary
+- Provide us a table of vocabulary, the table should only include nouns, verbs, adverbs and adjectives
 - Do not provide particles in the vocabulary, student needs to figure out the correct particles to use
 - Provide words in their dictionary form, studen needs to figure out onjugations and tenses
+- Provide a possible sentence structure
 
-Student Input:
-Bears are at the door, did you leave the garbage out?
+Student Input: Bears are at the door, did you leave the garbage out?
