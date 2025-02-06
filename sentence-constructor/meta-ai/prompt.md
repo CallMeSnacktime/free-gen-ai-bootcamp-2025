@@ -76,4 +76,4 @@ Beginner, A1
 
 
 ## Student Input
-Bears are at the door, did you leave the garbage out?
+Do you see the raven this morning? They were looking at our garden.
