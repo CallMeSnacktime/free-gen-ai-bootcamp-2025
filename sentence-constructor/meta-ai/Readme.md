@@ -3,7 +3,7 @@
 
 ### Which Model
 
-Meta.ai us ysubg Llama 3 70B
+Meta.ai us using Llama 3 70B
 
 https://huggingface.co/meta-llama/Meta-Llama-3-70B
 
