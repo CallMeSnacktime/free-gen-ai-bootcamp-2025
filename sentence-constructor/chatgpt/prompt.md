@@ -28,6 +28,17 @@ The formatted output will generally contain 3 parts
 
 ### Sentence Structure
 - Do not provide particles in the sentence structure
+- Do not provide tenses or conjugations in the sentence structure
+- Remember to consider beginner level sentence structures.
+Here is an example of simple sentence structures.
+- I eat an apple. → [Subject] → [Verb] → [Object]
+- She is happy. → [Subject] → [Verb] → [Adjective]
+- We are in the park. → [Subject] → [Verb] → [Location]
+- Where do you live? → [Question Word] → [Verb] → [Subject]?
+- Do they play soccer? → [Verb] → [Subject] → [Object]?
+- I don’t like vegetables. → [Subject] → [Negation] → [Verb] → [Object]
+- Is the book on the table? → [Verb] → [Subject] → [Location]?
+
 ### Clues & Considerations
 - Try and provide a non-nested bulleted list
 - You can talk about the vocabulary but try to leave out spanish words because the student can refer to the vocabulary table
